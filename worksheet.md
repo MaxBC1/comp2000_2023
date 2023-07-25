@@ -12,7 +12,12 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  <!-- Both of these websites are cloud based coding sites where users can upload, clone, edit and share code files/repositories.
+  The main differnce between the websites is that bitbucket is designed for more private uploads where as git is designed more around a public setting. Git users can use private repos but they are capped out at 3 users per private repos. 
+  For the setting of class and teaching, git is better for as it allows plenty of with public access. -->
+
   * Who made the last commit to repository A?
+  <!--  -->
   * Who made the first commit to repository A?
   * Who made the first and last commits to repository B?
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
