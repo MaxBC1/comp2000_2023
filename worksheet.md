@@ -17,11 +17,23 @@ And answer the following questions about them:
   For the setting of class and teaching, git is better for as it allows plenty of with public access. -->
 
   * Who made the last commit to repository A?
-  <!--  -->
+  <!-- Matthew Roberts, 08/18/22 -->
   * Who made the first commit to repository A?
+  <!-- Jon Mountjoy, 11/08/14 -->
   * Who made the first and last commits to repository B?
+  <!-- Last = DavePearce, 11/08/22
+  First =  zmthy, 15/05/2011-->
+
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+  <!--  "For the purpose of this action, a repository is considered inactive if it has not had a push in a configurable amount of days."
+  https://github.com/github/stale-repos
+  
+  In both cases i would assume both repos are inactive as there has not been any commits to either in just under a year.
+  
+  The most likely option for the the repos becoming inactive is that they have been completed in terms of code being updated or there may have been high rated repos that cover a similar or the same topic that attracts all the traffic. -->
   * 🤔 Which file in each project has had the most activity?
+  <!-- Unsure about Bit file 
+  Git had 696 cahnges to build.num -->
 
 # Task 2
 
